@@ -1,7 +1,7 @@
 # Hash Cracker 
 
 ## Description
-This is an educational Python project to demonstrate coding skills and a general understanding of password auditing and hash verification.
+This is an educational Python project to demonstrate coding skills and a general understanding of password auditing and hash verification as it applies to real-world cybersecurity environments.
 
 ## Disclaimer
 This was designed for educational purposes only and is not intended for illegal or malicious use of any kind.
