@@ -3,6 +3,9 @@
 ## Description
 This is an educational Python project to demonstrate coding skills and a general understanding of password auditing and hash verification.
 
+## Disclaimer
+This was designed for educational purposes only and is not intended for illegal or malicious use of any kind.
+
 ## Features
    - MD5 hash cracking
    - SHA1 hash cracking
