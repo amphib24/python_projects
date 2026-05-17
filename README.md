@@ -5,3 +5,12 @@ applied learning in real-world scenarios common to cybersecurity environments
 
 # Disclaimer
 Any code demonstrated in this repository is for educational purposes only and is not intended to be used for illegal or malicious activity. 
+
+# Projects
+<table>
+  <th>Project</th>
+  <tr>
+    <td><a href = "https://github.com/amphib24/python_projects/blob/main/hashcracker/README.md">Hash Cracker</a></td>
+  </tr>
+</table>
+
